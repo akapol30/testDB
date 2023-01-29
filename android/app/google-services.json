@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201298343524",
+    "project_id": "amezon-d99b5",
+    "storage_bucket": "amezon-d99b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201298343524:android:3380cabf9fedfb29d89171",
+        "android_client_info": {
+          "package_name": "com.example.test6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201298343524-0vb3doa9jg4g0dj0j764nsqjv5pnef5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQ4KcN2IUcgDvPT6PFtXQzNbECom2PrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201298343524-0vb3doa9jg4g0dj0j764nsqjv5pnef5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
